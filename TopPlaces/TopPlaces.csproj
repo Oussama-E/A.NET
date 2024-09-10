@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\jaime.png" />
+    <None Remove="Photos\amsterdam.jpg" />
+    <None Remove="Photos\berlin.jpg" />
+    <None Remove="Photos\bruxelles.jpg" />
+    <None Remove="Photos\moscou.jpg" />
+    <None Remove="Photos\newyork.jpg" />
+    <None Remove="Photos\paris.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\jaime.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Photos\newyork.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Photos\amsterdam.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Photos\berlin.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Photos\bruxelles.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Photos\paris.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

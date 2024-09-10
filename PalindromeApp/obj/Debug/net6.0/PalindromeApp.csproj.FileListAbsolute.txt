@@ -1,0 +1,14 @@
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\bin\Debug\net6.0\PalindromeApp.exe
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\bin\Debug\net6.0\PalindromeApp.deps.json
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\bin\Debug\net6.0\PalindromeApp.runtimeconfig.json
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\bin\Debug\net6.0\PalindromeApp.dll
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\bin\Debug\net6.0\PalindromeApp.pdb
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\PalindromeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\PalindromeApp.AssemblyInfoInputs.cache
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\PalindromeApp.AssemblyInfo.cs
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\PalindromeApp.csproj.CoreCompileInputs.cache
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\PalindromeApp.dll
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\refint\PalindromeApp.dll
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\PalindromeApp.pdb
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\PalindromeApp.genruntimeconfig.cache
+C:\code\3BIN\Revisions\A.NET\PalindromeApp\obj\Debug\net6.0\ref\PalindromeApp.dll
